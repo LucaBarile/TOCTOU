@@ -1,0 +1,7 @@
+D:\Software\MyPrograms\Prog. in C#\UpdateDll\UpdateDll\bin\Debug\UpdateDll.exe.config
+D:\Software\MyPrograms\Prog. in C#\UpdateDll\UpdateDll\bin\Debug\UpdateDll.exe
+D:\Software\MyPrograms\Prog. in C#\UpdateDll\UpdateDll\bin\Debug\UpdateDll.pdb
+D:\Software\MyPrograms\Prog. in C#\UpdateDll\UpdateDll\obj\Debug\UpdateDll.csprojAssemblyReference.cache
+D:\Software\MyPrograms\Prog. in C#\UpdateDll\UpdateDll\obj\Debug\UpdateDll.csproj.CoreCompileInputs.cache
+D:\Software\MyPrograms\Prog. in C#\UpdateDll\UpdateDll\obj\Debug\UpdateDll.exe
+D:\Software\MyPrograms\Prog. in C#\UpdateDll\UpdateDll\obj\Debug\UpdateDll.pdb
