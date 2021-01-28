@@ -1,0 +1,7 @@
+D:\Software\MyPrograms\Prog. in C#\CodeReader\CodeReader\bin\Debug\CodeReader.exe.config
+D:\Software\MyPrograms\Prog. in C#\CodeReader\CodeReader\bin\Debug\CodeReader.exe
+D:\Software\MyPrograms\Prog. in C#\CodeReader\CodeReader\bin\Debug\CodeReader.pdb
+D:\Software\MyPrograms\Prog. in C#\CodeReader\CodeReader\obj\Debug\CodeReader.csprojAssemblyReference.cache
+D:\Software\MyPrograms\Prog. in C#\CodeReader\CodeReader\obj\Debug\CodeReader.csproj.CoreCompileInputs.cache
+D:\Software\MyPrograms\Prog. in C#\CodeReader\CodeReader\obj\Debug\CodeReader.exe
+D:\Software\MyPrograms\Prog. in C#\CodeReader\CodeReader\obj\Debug\CodeReader.pdb
